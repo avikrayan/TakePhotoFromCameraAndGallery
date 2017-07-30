@@ -1,0 +1,7 @@
+#Tue Jul 25 11:59:08 IST 2017
+base.0=/home/avik/Development/TakePhotoFromCameraAndGallery/app/build/intermediates/transforms/dex/debug/folders/1000/10000/instant-run-bootstrap_55a53c4d54641af1ab2049b7f8671462d57901e4
+renamed.1=classes.dex
+renamed.0=classes2.dex
+file.1=/home/avik/Development/TakePhotoFromCameraAndGallery/app/build/intermediates/transforms/dex/debug/folders/1000/10000/instant-run_ff819e1aa294020c06f788a7e4c24fd14d1e592e/classes.dex
+base.1=/home/avik/Development/TakePhotoFromCameraAndGallery/app/build/intermediates/transforms/dex/debug/folders/1000/10000/instant-run_ff819e1aa294020c06f788a7e4c24fd14d1e592e
+file.0=/home/avik/Development/TakePhotoFromCameraAndGallery/app/build/intermediates/transforms/dex/debug/folders/1000/10000/instant-run-bootstrap_55a53c4d54641af1ab2049b7f8671462d57901e4/classes.dex

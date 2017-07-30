@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="utf-8"?>
+<items version="2" >
+
+    <item
+        is-multidex="true"
+        jar="/home/avik/Development/TakePhotoFromCameraAndGallery/app/build/intermediates/incremental-classes/debug/instant-run-bootstrap.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="26.0.0"
+        sha1="1919c97fb973d0c5a8fb32955f283a57aa104d6e">
+        <dex dex="/home/avik/Development/TakePhotoFromCameraAndGallery/app/build/intermediates/transforms/dex/debug/folders/1000/10000/instant-run-bootstrap_55a53c4d54641af1ab2049b7f8671462d57901e4/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/home/avik/Development/TakePhotoFromCameraAndGallery/app/build/intermediates/incremental-runtime-classes/debug/instant-run.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="26.0.0"
+        sha1="3be78ebc2706b2e1fe2f12d5726887a92d6c183b">
+        <dex dex="/home/avik/Development/TakePhotoFromCameraAndGallery/app/build/intermediates/transforms/dex/debug/folders/1000/10000/instant-run_ff819e1aa294020c06f788a7e4c24fd14d1e592e/classes.dex" />
+    </item>
+
+</items>
